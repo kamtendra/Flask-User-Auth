@@ -1,4 +1,4 @@
-# Flask Web App Tutorial
+# Flask User Auth Demo
 
 ## Setup & Installation
 
